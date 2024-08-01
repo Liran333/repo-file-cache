@@ -1,6 +1,8 @@
 module github.com/opensourceways/repo-file-cache
 
-go 1.18
+go 1.21
+
+toolchain go1.22.3
 
 require (
 	github.com/beego/beego/v2 v2.0.1
